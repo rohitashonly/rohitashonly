@@ -1,15 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rohitash Saini</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitashonly&label=Profile%20views&color=0e75b6&style=flat" alt="rohitashonly" /> </p>
-
-<p align="left"> <a href="https://twitter.com/rohitashonly" target="blank"><img src="https://img.shields.io/twitter/follow/rohitashonly?logo=twitter&style=for-the-badge" alt="rohitashonly" /></a> </p>
-
 - 🌱 I’m currently learning **Kubernetes, Prometheus, Grafana, AWS**
 
 - 🤝 I’m looking for help with **DevOps**
-
-- 📝 I regularly write articles on [blog ling](blog ling)
 
 - 📫 How to reach me **rohitashonly@gmail.com**
 
