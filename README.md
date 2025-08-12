@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rohitash Saini</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 
+<img src="https://github.com/rudrabarad/Gifs" alt="Animated gif of a rocket launching"width="400"height="300"align="center">
+
 - 🌱 I’m currently learning **Kubernetes, Prometheus, Grafana, AWS**
 
 - 🤝 I’m looking for help with **DevOps**
@@ -27,3 +29,15 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitashonly&show_icons=true&locale=en" alt="rohitashonly" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitashonly&" alt="rohitashonly" /></p>
+
+
+
+
+
+
+
+
+
+
+
+
