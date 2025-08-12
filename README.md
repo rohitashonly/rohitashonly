@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **DevOps**
 - 🌱 I’m currently learning **Kubernetes, Prometheus, Grafana**
-- 💬 Ask me about **💻 Developer | 🌱 Lifelong Learner | 🔧 Building cool stuff with code Passionate about tech, open source, and continuous improvement. Let's build something am**
+- 💬 Ask me about ** I’m an aspiring DevOps and Cloud Engineer with hands-on experience in AWS, Docker, Kubernetes, Terraform, and CI/CD pipelines. I have a strong interest in automation, cloud infrastructure, and system design. Alongside my technical skills, I’m also working on improving my communication and English proficiency. I enjoy building practical projects, solving real-world problems, and constantly learning new technologies to enhance my professional skills**
 - 📫 How to reach me **rohitashonly@gmail.com**
 
 <div> <a href="https://twitter.com/rohitashonly" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
@@ -35,10 +35,8 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Visualization/grafana-icon.svg" alt="Grafana" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/circleci-icon.svg" alt="Circleci" width="40" height="40"/>
 </p>
-
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitashonly&layout=compact&theme=" alt=rohitashonly />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
