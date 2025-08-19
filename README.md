@@ -8,6 +8,8 @@
 - 🤝 I’m looking for help with **DevOps**
 - 🌱 I’m currently learning **Kubernetes, Prometheus, Grafana**
 - 💬 Ask me about ** I’m an aspiring DevOps and Cloud Engineer with hands-on experience in AWS, Docker, Kubernetes, Terraform, and CI/CD pipelines. I have a strong interest in automation, cloud infrastructure, and system design. Alongside my technical skills, I’m also working on improving my communication and English proficiency. I enjoy building practical projects, solving real-world problems, and constantly learning new technologies to enhance my professional skills**
+- 👨‍💻 Strong background in Python, Linux, CI/CD pipelines.
+- 🌱 Goal: To become a Cloud + DevOps Engineer
 - 📫 How to reach me **rohitashonly@gmail.com**
 
 <div> <a href="https://twitter.com/rohitashonly" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
